@@ -1,4 +1,4 @@
-# Problem Set 04
+# Problem Set 06
 
 This repository contains practice exercises for the _Client-Side Web Development_ course at the UW iSchool.
 
